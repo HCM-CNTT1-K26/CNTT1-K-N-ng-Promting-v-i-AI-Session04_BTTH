@@ -35,7 +35,7 @@ BƯỚC 2: SUY LUẬN LOGIC TÍNH TOÁN (Chain-of-Thought)
 
 BƯỚC 3: KẾT XUẤT KẾT QUẢ
 Trình bày kết quả duy nhất theo khung mẫu chuẩn sau:
-=== PHIẾU ĐƠN HÀNG ===
+ PHIẾU ĐƠN HÀNG
 - Trạng thái: [Hợp lệ / Cần bổ sung / Lỗi kho]
 - Cảnh báo lỗi: [Nội dung lỗi ở Bước 1, nếu không có ghi "Không"]
 - Khách hàng: [Tên] - [SĐT] - [Địa chỉ]
@@ -51,7 +51,7 @@ Trình bày kết quả duy nhất theo khung mẫu chuẩn sau:
 
 * **Kết quả phản hồi từ mô hình:**
 
-=== PHIẾU ĐƠN HÀNG ===
+ PHIẾU ĐƠN HÀNG 
 - Trạng thái: Cần bổ sung & Lỗi kho
 - Cảnh báo lỗi: 
   + [LỖI THIẾU THÔNG TIN]: Khách hàng chưa cung cấp địa chỉ giao hàng.
